@@ -1,0 +1,16 @@
+{
+    "name": "multimonos/gfairtable",
+    "description": "airtable feeds addon for gravity forms",
+    "autoload": {
+        "psr-4": {
+            "GFAirtable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Craig Hopgood",
+            "email": "searaig@gmail.com"
+        }
+    ],
+    "require": {}
+}
